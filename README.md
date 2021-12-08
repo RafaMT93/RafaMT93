@@ -4,7 +4,7 @@ Welcome to my Github page!
 I am **Rafael de Moraes** from **Brazil / SP**!
 
 ### About Me
-* I'm graduate in **Database Technology** from Universidade Cruzeiro do Sul;
+* I'm graduate in **Database Technology** from Cruzeiro do Sul University;
 * Passionate for Fighting Games, Music and Mangás/Animes;
 * Currently looking for a job as a **Front End Developer**;
 * I'm currently leaning PHP, .NET and perfecting myself in ReactJS and NodeJS.
