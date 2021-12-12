@@ -18,6 +18,9 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=AngularJS)
+
 
 ### --BackEnd
 
@@ -32,7 +35,7 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 
 ### --Tools
 
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![Redux](https://img.shields.io/badge/-React_Redux-333333?style=flat&logo=Redux)
 ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
