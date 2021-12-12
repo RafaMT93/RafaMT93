@@ -7,7 +7,7 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 * I'm graduate in **Database Technology** from Cruzeiro do Sul University;
 * Passionate for Fighting Games, Music and Mangás/Animes;
 * Currently looking for a job as a **Front End Developer** or **FullStack Developer**;
-* I'm currently leaning **PHP, .NET** and perfecting myself in **ReactJS and NodeJS**.
+* I'm currently leaning **PHP, Java** and perfecting myself in **ReactJS and NodeJS**.
 
 ### Tech & Tools Preference
 
