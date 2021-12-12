@@ -11,16 +11,29 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 
 ### Tech & Tools Preference
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
+
+### --FrontEnd
+
 ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+
+### --BackEnd
+
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+### --Database
+
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MYSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+### --Tools
+
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MYSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
