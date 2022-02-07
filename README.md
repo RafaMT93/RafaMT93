@@ -23,9 +23,9 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 
 ### --BackEnd
 
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ### --Database
 
