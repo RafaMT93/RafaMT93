@@ -26,6 +26,7 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
 ### --Database
 
@@ -41,6 +42,9 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![VSCode](http://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual%20studio%20code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
+
 
 ## Stats
 ![RafaMT93 Github Stats](https://github-readme-stats.vercel.app/api/?username=RafaMT93&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
