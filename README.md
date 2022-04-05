@@ -36,6 +36,7 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 ### --Tools
 
 ![Redux](https://img.shields.io/badge/-React_Redux-333333?style=flat&logo=Redux)
+![Styled-Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
 ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
