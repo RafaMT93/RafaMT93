@@ -25,7 +25,6 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphQL)
 
 ### --Database
 
@@ -36,6 +35,7 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 
 ### --Tools
 
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphQL)
 ![Redux](https://img.shields.io/badge/-React_Redux-333333?style=flat&logo=Redux)
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
