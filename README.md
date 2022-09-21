@@ -6,7 +6,7 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 ### About Me
 * I'm graduate in **Database Technology** from Cruzeiro do Sul University;
 * Passionate for Fighting Games, Music and Mangás/Animes;
-* I'm currently leaning **Node, Java** and perfecting myself in **ReactJS**.
+* I'm currently leaning **Node, GraphQL and PostGreSQL**.
 
 ### Tech & Tools Preference
 
