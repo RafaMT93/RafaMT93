@@ -25,10 +25,13 @@ I am **Rafael de Moraes** from **Brazil / SP**!
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphQL)
 
 ### --Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MYSQL)
+![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=Mariadb)
+![PostGreSQL](https://img.shields.io/badge/-PostGreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ### --Tools
